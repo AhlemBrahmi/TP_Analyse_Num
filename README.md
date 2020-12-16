@@ -5,7 +5,7 @@
 <br>
 <br>TP1:Methode de newton & Methode de dichotomie & Methode de point fixe
 <br>
-<brTP2:Interpolation polynomiale
+<br>TP2:Interpolation polynomiale
 <br>
 <br>TP3: Mini_Projet sur les methodes de l'integration numerique
 <br>
